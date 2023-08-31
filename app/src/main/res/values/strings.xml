@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rik Masters Test Task</string>
+    <string name="my_home">Мой дом</string>
+    <string name="cameras">Камеры</string>
+    <string name="doors">Двери</string>
+    <string name="edit_door_name_dialog_title">Введите имя:</string>
+    <string name="edit_door_name_dialog_confirm_button">Подтвердить</string>
+    <string name="edit_door_name_dialog_dismiss_button">Закрыть</string>
+</resources>
